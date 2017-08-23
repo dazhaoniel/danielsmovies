@@ -2,3 +2,7 @@ baseURL = "https://example.org/"
 languageCode = "en-us"
 title = "Daniel's Movie Reviews"
 theme = "hyde"
+
+[Params]
+  Author = "Daniel Zhao"
+  Description = "A record of movies I watched in 2017, with their original year and my reviews. "

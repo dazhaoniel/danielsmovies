@@ -4,5 +4,5 @@ date: 2017-08-18T13:44:10-04:00
 draft: true
 ---
 
-![Walk With Me Poster](https://pmcvariety.files.wordpress.com/2017/03/walk-with-me-international-poster.jpg?w=260)
-It's interesting to see the monastry life of monks and nuns, but enlightment didn't happen to me today.
+![](https://static.wixstatic.com/media/14a560_84cf233966774305ac2910fc0be30c24~mv2.jpg_srz_891_386_85_22_0.50_1.20_0.00_jpg_srz)
+It's interesting to see the monastery life of Buddhist monks and nuns, but enlightenment didn't happen to me today. Maybe next time.
