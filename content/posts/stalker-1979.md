@@ -1,7 +1,6 @@
 ---
-title: "Stalker 1979"
+title: "Stalker (1979)"
 date: 2017-08-16T16:17:44-04:00
-draft: true
 ---
 
 ![](https://curzonblob.blob.core.windows.net/media/5283/stalker-poster.jpg)

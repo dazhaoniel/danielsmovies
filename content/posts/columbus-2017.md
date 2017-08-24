@@ -1,7 +1,6 @@
 ---
 title: "Columbus (2017)"
-date: 2017-08-04T16:12:57-04:00
-draft: true
+date: 2017-08-04T19:16:59-04:00
 ---
 
 ![](http://img.cnmhstng.com/promohd/2017/lg/Columbus389.jpg)

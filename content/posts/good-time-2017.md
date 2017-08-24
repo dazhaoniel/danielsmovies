@@ -1,7 +1,6 @@
 ---
-title: "Good Time 2017"
-date: 2017-08-15T16:18:09-04:00
-draft: true
+title: "Good Time (2017)"
+date: 2017-08-15T19:20:11-04:00
 ---
 
 ![](http://i1.wp.com/www.wearemoviegeeks.com/wp-content/uploads/goodtime3.jpg?resize=560%2C349)

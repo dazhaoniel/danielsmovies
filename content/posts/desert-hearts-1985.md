@@ -1,7 +1,6 @@
 ---
 title: "Desert Hearts (1985)"
-date: 2017-07-24T16:13:13-04:00
-draft: true
+date: 2017-07-24T19:17:07-04:00
 ---
 
 ![](https://cstpdx.com/sites/clinton/files/desert%20hearts%20kiss.jpg)
